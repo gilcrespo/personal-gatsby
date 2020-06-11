@@ -10,8 +10,8 @@ export default {
     primary: "#FF4081",
     secondary: "#03A9F4",
     success: "#FFEB3B",
-    background: "#ffffff",
-    surface: "#f3f3f3"
+    background: "#232323",
+    surface: "#393939",
   },
   styles: {
     ...baseTheme.styles,
