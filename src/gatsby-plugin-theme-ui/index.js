@@ -7,10 +7,10 @@ export default {
     ...baseTheme.colors,
     text: "#222222",
     muted: "#666666",
-    primary: "#FF4081",
-    secondary: "#03A9F4",
+    primary: "#03A9F4",
+    secondary: "#FF4081",
     success: "#FFEB3B",
-    background: "#232323",
+    background: "#eeeeee",
     surface: "#393939",
   },
   styles: {
